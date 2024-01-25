@@ -1,0 +1,5 @@
+{
+  "relay.lspOutputLevel": "verbose",
+  "relay.compilerOutputLevel": "verbose",
+  "relay.pathToRelay": "../relay-fork/compiler/target/debug/relay"
+}

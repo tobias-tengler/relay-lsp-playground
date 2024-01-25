@@ -1,0 +1,8 @@
+{
+  "src": "./src",
+  "language": "javascript",
+  "schema": "./src/schema.graphql",
+  "featureFlags": {
+    "enable_relay_resolver_transform": true
+  }
+}

@@ -1,0 +1,7 @@
+# Replace this with your own GraphQL schema file!
+type Query {
+  field: String
+  fieldWithArg(arg: Boolean): String
+}
+
+directive @test(arg: Boolean) on FIELD
